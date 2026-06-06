@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 71.5785,
+        "lat": 34.008
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 36.7,
+        "feels_like": 34.86,
+        "temp_min": 36.7,
+        "temp_max": 36.7,
+        "pressure": 1003,
+        "humidity": 19,
+        "sea_level": 1003,
+        "grnd_level": 968
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.44,
+        "deg": 125,
+        "gust": 2.85
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1780727541,
+    "sys": {
+        "country": "PK",
+        "sunrise": 1780704155,
+        "sunset": 1780755738
+    },
+    "timezone": 18000,
+    "id": 1168197,
+    "name": "Peshawar",
+    "cod": 200
+}
